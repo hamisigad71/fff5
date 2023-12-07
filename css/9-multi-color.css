@@ -1,0 +1,172 @@
+.currency-nav-holder ul li:first-child{background:#bfbfbf}
+button.btn.btn-booking, .btn{background-color:#b61928!important;border:2px solid #b61928;padding-bottom:8px;padding-top:8px}
+button.btn.btn-booking:hover, .btn:hover{background-color:#312e2d!important}
+.filter .views span.active{background:#312e2d}
+.blue_bg{background:#312e2d!important}
+.price_view .price_label{color:#312e2d}
+.ui-widget-header{background:#312e2d!important}
+.dropdown_btns{background-color:#312e2d}
+.special_offer a{background:#b61928}
+.special_offer a:hover{background:#d4c8b9}
+.resrv-heading{background-color:#312e2d}
+.rate-rule-red-button,.ov-item-action .ov-btn-primary{background-color:#b61928;border:2px solid #b61928;padding-bottom:8px;padding-top:8px}
+.flexi-date-btn input{background-color:#312e2d;color:#fff!important}
+.dropdown_btns input{color:#354a59}
+.dropdown_btns input.flexiunset{background-color:#312e2d;color:#fff}
+.check-edit-date a{background:#b61928}
+.check-edit-date a:hover{background:#312e2d}
+.check-avaibility-btn{background:#b61928;border:2px solid #b61928;padding-bottom:12px;padding-top:12px}
+.check-avaibility-btn:hover{background:#fff !important;color:#b61928}
+.dropdown_btns input{color:#fff}
+.addon-btn-area{background-color:#312e2d}
+.continue-addons{background:#b61928}
+.continue_section{background:#b61928}
+#imgButton{background:#b61928}
+.flexi-radio{background:#312e2d}
+#bookNow{background:#b61928;border:2px solid #b61928;padding:18px 0}
+.confirm-your-stay{background:#312e2d}
+.confirm-reservation-details p span{color:#312e2d}
+.reg-heading-blue{background-color:#312e2d;box-shadow: none;}
+.terms_conditions_text a{color:#b61928}
+.terms_conditions_text a:hover{color:#312e2d}
+.tick_text a{color:#b61928}
+.tick_text a:hover{color:#312e2d}
+#login-container .login_half #fogot_pwd_link{color:#312e2d}
+.fgtpwd_pop .btn{background-color:#b61928}
+.stats-box{background:#312e2d}
+.legend .fa{background:#312e2d}
+.reserve_info h4 a{color:#312e2d}
+.my_account_action a, .my_account_action a:after{color:#b61928}
+.user_img .fancy_upload_pic,.edit_search_sec .fa,.my-booking-heading .my-booking-heading-icon .fa,.add_section .fa{color:#312e2d}
+.sort_room_list .show_more .showmore{background-color:#b61928}
+.check_availability_btn{background-color:#b61928;border:2px solid #b61928;padding:8px 0}
+.check_availability_btn:hover{background-color:#fff;color:#b61928}
+.available-rooms-container h2{background-color:#312e2d!important}
+.daterangepicker td.active,.daterangepicker td.active:hover,.daterangepicker td.hover .little_price{background-color:#312e2d!important}
+.daterangepicker td.available:hover{background:#312e2d!important}
+.addons .btn-default{background-color:#b61928;color:#fff;border-color:#b61928}
+.addons .btn-default:hover{background-color:#312e2d}
+.addons .addons-no{background-color:#312e2d;color:#fff}
+.close_popup a{background-color:#b61928;color:#fff}
+.calendar_box ul li.available{background-color:#312e2d!important;color:#fff;border-color:#312e2d}
+.daterangepicker td.in-range{background:#312e2d!important}
+.check_container input:checked ~ .checkmark{background-color:#b61928}
+.next.available i,.prev.available i{color:#b61928!important}
+.right_profile_area .daterangepicker th.available:hover .fa{color:#312e2d}
+.search_listing table thead{background:#312e2d}
+.search_history_list table a{background:#b61928}
+.tab-pane h2{color:#000}
+.sort_room_list .raterule-container .raterule h4{color:#000}
+.changepwd_pop button.btn{ background:#b61928 !important; }
+.ui-datepicker td a, .ui-datepicker td span { padding: 2px !important; }
+/*-------- COMMON COLOR CSS -------*/
+.hideMoreFacility, .showMoreFacility {color:#b61928; font-weight: bold;} 
+#reservation-list h4 small a{color:#b61928;}
+#reservation-list h4 small a:after {top: 5px!important;}
+
+.button_pop .btn-ok, .button_pop a#go-back-btn-room-edit { background:#b61928 ; } 
+.ui-dialog .ui-dialog-titlebar-close:after { background:#b61928 ; }
+.accordion .ui-accordion-content .fancy_room_view.btn:hover { color: #312e2d  ; }
+.reserve_info .accordion .ui-accordion-content .fancy_room_view.btn:hover { color: #fff ; }
+#reservation-list .view_reserve_col .booking-list .ui-widget-content a:hover { color:#fff ; }
+.ui-datepicker td a:hover { background: #b61928; }
+.ov-item-action .ov-btn-primary { background-color: #b61928; }
+.edit-room-be .hotels-name { background: #717174 ;}
+.head-line { background: #717174 ; }
+.popup-age:after { border-color: #717174  transparent transparent; } 
+.changepwd_pop #error_message_div a.close { line-height:22px; right:7px!important; }
+.close { background:#b61928 !important; color:#fff !important;}
+/*.tooltiptext div{background: #717174 !important;}*/
+.tooltip-price .tooltiptext:before{border-bottom-color:#717174 !important;}
+.fancy_profile_more_info {color: #b61928;}
+.sort_room_list .desc_popup22 ul.nav-tabs li.active a, .sort_room_list .desc_popup22 ul.nav-tabs li:hover a, .active_desktop a{color: #b61928  !important; border-bottom: solid 2px #b61928 !important;font-weight:600;}
+ul.tabs_flexi li.active a{color: #b61928; border-bottom: 3px solid #b61928;}
+.policy_popup .pop_close{ color:#b61928;}
+
+a[href^="tel:"]:hover, a[href^="mailto:"]:hover{ color:#b61928; text-decoration:underline;}
+.show_box .show_box_body .check span.check_date, .show_box .show_box_body .check span.room_total_price{ color:#b61928 !important; font-weight:600;}
+.enhancement-container h3{color:#312e2d !important;}
+.back-btn {	background: #b61928;}
+.back-btn:hover {	background: #312e2d;}
+.wel_msg a, #reservation-list h4 small a{color:#b61928 !important;}
+.fancy_profile_more_info{font-weight: 600;}
+#policy_pop_close { cursor: pointer;} 
+ul.tabs li a.active {background-color: #b61928; color: #fff;}
+.bx-wrapper .bx-prev:focus,.bx-wrapper .bx-next:focus{background-color:#b61928 !important; }
+#overlay-policy a:hover{color:#b61928;}
+.maxoccpopup{ background-color: #312e2d;}
+.icon_right a, .info_content h4{ color: #354a59;}
+.info_content .readmore, .colorlabel a{ color:#b61928}
+.left_content_calendar_row1 .check{ color:#354a59;}
+.already-member a, .upgrade_sel_room .sel{ color:#b61928;}
+.confirm-desc-text a { color: #b61928;}
+.confirm-desc-text a:hover { color: #312e2d;}
+.side_inner img.offer_img{display: none !important;}
+@media only screen and (min-width:1024px) {
+	.profile_slider .bx-wrapper .bx-prev:hover,.profile_slider .bx-wrapper .bx-next:hover{background-color:rgba(90,144,0,0.7) url(../images/controls.png) no-repeat -28px center}
+}
+
+.pagination li.active span{background-color:#312e2d}
+.card_btn label.btn{background:#bebebe!important}
+.card_btn label.btn.active{background:#b61928!important}
+.price-not-available{background:#b61928}
+.price-not-available:hover{background:#312e2d}
+.sort_rate_list .rate_list_area .heading_hotel_type .rate_type_room_headeing h3 .room_avail_notify.red_col{background-color:#312e2d}
+.latestBookingTime{background-color:#312e2d}
+.highlight_button .special_offer a{background-color:#dbbd8d!important}
+.dropdown_btns.highlight_button{background-color:#312e2d!important}
+.sort_room_list .amenities_room ul li::after,.hotelcontent .amenities_room ul li::after{color:#b61928}
+.ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight,.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{border:1px solid #76b58c!important;background:#b61928!important;color:#fff!important}
+.hotel_btn li a{color:#b61928}
+.check_container a{color:#b61928}
+.check_container a:hover{ color:#312e2d;}
+.bx-wrapper .bx-controls-direction a:hover{background-color:rgba(78,123,93,0.56)}
+.sort_room_list .select_room_hearder h3 .room_avail_notify,.room_avail_notify_mobile .room_avail_notify{background-color:#b61928}
+.start-date .cal_caption,.end-date .cal_caption{background-color:#b61928}
+.start-date .cal_caption::after{border-top:10px solid #b61928}
+.end-date .cal_caption::after{border-bottom:10px solid #b61928}
+input[type="button"]{-webkit-appearance:none;-moz-appearance:none;appearance:none;border-radius:0}
+.input_dates_area .form-group label[for="no_room"]{text-transform:uppercase}
+#overlay-policy{background-color:#312e2d!important}
+#overlay-policy a:hover{color:#fff;text-decoration:underline}
+.sort_room_list .raterule-container{min-height:inherit!important}
+.step_wrap{background:#312e2d!important}
+#step-main .book_steps,#step-main .book_steps.active{color:#fff!important}
+.show_calendar_area .calendar_box ul li.available:hover,.show_calendar_area .calendar_box ul li.available.Active{background-color:#b61928!important}
+.room_pop_rgt ul.nav-tabs li.active a{color:#b61928!important;border-bottom:#b61928 3px solid!important}
+.ui-dialog .ui-dialog-titlebar-close:after,.button_pop a#go-back-btn-room-edit,.button_pop .btn-ok{background:#b61928!important}
+.btn,.listing-inquiry-button{background-color:#b61928!important}
+.charges_heading{background-color:#312e2d}
+.edit-room-be .hotels-name{background:#312e2d!important}
+.check-avaibility-btn{background:#b61928!important}
+.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,.ui-widget-header{background:#b61928!important}
+.popup-age .head-line {background: #312e2d;}
+.popup-age:after {border-top-color:#312e2d;}
+.upload-btn-wrapper .btn { pointer-events: none; }
+
+@media only screen and (min-width:1024px) {
+	.rate-rule-red-button:hover,.check_availability_btn:hover,.btn:hover,.ov-item-action .ov-btn-primary:hover{color:#fff; background: #312e2d !important;border-color: #312e2d !important;}
+}
+
+@media(max-width:1024px) {
+	.continue_section button:hover{background-color:#b61928!important}
+}
+
+@media(max-width:767px) {
+	.addon-btn-area .back-to-room{background:#312e2d}
+	.mobile-view,.sort_room_list .raterule-container .raterule .room-rate-type-price,.sort_room_list .raterule-container .raterule .room-rate-type-norooms{background:#312e2d!important}
+	.raterule-container .raterule .rate_type_calendar{width:100%!important}
+	.raterule-container .raterule .rate_type_calendar .avl-calender{max-width:inherit}
+
+		/* Comman color issues */
+	#myaccount-content h2 {  background-color: #312e2d; } 
+	.hotel-list-be .blue_bg { background-color: #312e2d; } 
+	.room-offer .mobile-view .title_rgt{background: #312e2d !important;}
+	.flexi_tabblock ul.tabs_flexi li.active a{color: #b61928;border-bottom: #b61928 3px solid;}
+	.room_pop_rgt ul.nav-tabs li.active a{color: #b61928 !important; border-bottom: solid 2px #b61928 !important;} 
+	.chk_flexi_date_opera label.check_container{line-height: 2}
+	#error_message_div a.close{line-height: 28px;}
+	.your-stay-container-checkout .blue_bg{background: #312e2d;}
+	.modification .mobile-view .old_design_icon{padding-top: 18px;}
+	.your-stay-container-checkout .blue_bg h2{color: #fff; padding: 10px} 
+}

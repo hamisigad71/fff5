@@ -1,0 +1,85 @@
+#hotel-detail-header {
+	padding-bottom: 15px;
+}
+#hotel-detail-header article {
+}
+#hotel-detail-header article h1 {
+	padding-bottom: 10px;
+	padding-top: 0;
+}
+#hotel-detail-header article h5 {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+#hotel-detail-header article p {
+	font-size: 13px;
+	text-align: justify;
+}
+#hotel-detail-header article p strong {
+}
+#hotel-detail-header #hotel-info {
+	padding: 15px 20px;
+	margin-top: 1em;
+}
+#hotel-detail-header #hotel-info h4 {
+}
+#hotel-detail-header #hotel-info address p {
+	font-size: 13px;
+}
+#hotel-detail-header #hotel-info .btn {
+}
+#hotel-detail-content {
+	padding: 10px;
+}
+.hotel-info-box {
+	-moz-border-radius: 8px 8px 8px 8px;
+	-webkit-border-radius: 8px 8px 8px 8px;
+	border-radius: 8px 8px 8px 8px;
+}
+.hotel-info-box h3 {
+	border-radius: 8px 8px 0 0;
+	-moz-border-radius: 8px 8px 0 0;
+	-webkit-border-radius: 8px 8px 0 0;
+	font-weight: 300 !important;
+	padding: 12px !important;
+	margin: 0;
+}
+.hotel-info-box p {
+	font-size: 13px;
+	padding: 14px;
+	text-align: justify;
+}
+.hotel-info-box ul {
+	display: inline-block;
+	margin: 14px;
+	padding: 0;
+	width: 95%;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.hotel-info-box ul {
+	padding: 0 0 0 15px;
+}
+}
+.hotel-info-box ul li {
+	float: left;
+	font-size: 13px;
+	line-height: 24px;
+	margin-right: 1em;
+	width: 47%;
+	list-style: inside none square;
+}
+.hotel-info-box .hotel-info-content {
+	overflow: auto
+}
+.hotel-policy {
+}
+.hotel-policy h3 {
+}
+.hotel-policy h5 {
+	font-weight: bold;
+	margin-top: 20px;
+}
+.hotel-policy p {
+	font-size: 13px;
+}

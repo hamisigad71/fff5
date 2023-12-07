@@ -1,0 +1,61 @@
+/* Icon Fonts
+*********************************/
+/* Font-face Icons */
+/* General
+***********************/
+
+
+/*.slider {margin: 0 0 10px !important;}*/
+#carousel li {
+	margin-right: 7px;
+}
+#carousel img {
+	display: block;
+	opacity: .5;
+	cursor: pointer;
+}
+#carousel .slides li img {
+	height: 132px;
+	width: 210px;
+}
+#slider .flex-viewport .slides img {
+	height: auto;
+	width: auto;
+	display: inline;
+}
+.flexslider .slides > li {
+	text-align: center;
+}
+#carousel img:hover {
+	opacity: 1;
+}
+#carousel .flex-active-slide img {
+	opacity: 1;
+	cursor: default;
+}
+/* Loading
+***********************/
+.loading #container {
+	opacity: 0;
+}
+.loading:before {
+	content: 'LOADING';
+	display: block;
+	margin: 100px 0 0;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 60px;
+	opacity: 0.3;
+}
+
+/*body {width: 100%; float: left; opacity: 1; -webkit-transition: opacity 1s ease;}*/
+
+
+/* Media Queries
+***********************/
+@media screen and (max-width: 960px) {
+}
+
+@media screen and (max-width: 768px) {
+}
